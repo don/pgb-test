@@ -3,8 +3,8 @@
         version="0.0.1" 
         xmlns="http://www.w3.org/ns/widgets" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        xmlns:gap       = "http://phonegap.com/ns/1.0"
-        xmlns:android   = "http://schemas.android.com/apk/res/android">
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android">
     <name>RedBear Chat</name>
     <description>
         A sample app from a phone to RedBear Labs BLE hardware.
